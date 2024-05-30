@@ -1,0 +1,235 @@
+{
+    "\ufeffID": {
+        "English_text": "en-US",
+        "Chinese_text": "zh-CN"
+    },
+    "Tab1_DevInfo": {
+        "English_text": "DevInfo",
+        "Chinese_text": "设备信息"
+    },
+    "Tab1_DevInfo.devName": {
+        "English_text": "DevName",
+        "Chinese_text": "设备名称"
+    },
+    "Tab1_DevInfo.activeState": {
+        "English_text": "ActiveState",
+        "Chinese_text": "活跃状态"
+    },
+    "Tab1_DevInfo.Transmit": {
+        "English_text": "Transmit",
+        "Chinese_text": "传输"
+    },
+    "Tab1_DevInfo.Signal": {
+        "English_text": "Signal",
+        "Chinese_text": "信号"
+    },
+    "Tab1_DevInfo.Remark": {
+        "English_text": "Remark",
+        "Chinese_text": "备注"
+    },
+    "Tab1_DevInfo.nextPage": {
+        "English_text": "NextPage",
+        "Chinese_text": "下页"
+    },
+    "Tab1_DevInfo.prevPage": {
+        "English_text": "PrevPage",
+        "Chinese_text": "上页"
+    },
+    "Tab1_DevInfo.registrationNumber": {
+        "English_text": "Registration Number",
+        "Chinese_text": "注册节点数"
+    },
+    "Tab1_DevInfo.4Gsignal": {
+        "English_text": "4G Signal Quality",
+        "Chinese_text": "4G信号质量"
+    },
+    "Tab1_DevInfo.WIFI": {
+        "English_text": "WIFI",
+        "Chinese_text": "WIFI"
+    },
+    "": {
+        "English_text": "",
+        "Chinese_text": ""
+    },
+    "Tab2_NetworkInfo": {
+        "English_text": "NetworkInfo",
+        "Chinese_text": "网络信息"
+    },
+    "Tab2_NetworkInfo.Ethernet": {
+        "English_text": "Ethernet",
+        "Chinese_text": "以太网"
+    },
+    "Tab2_NetworkInfo.WIFI": {
+        "English_text": "WIFI",
+        "Chinese_text": "WIFI"
+    },
+    "Tab2_NetworkInfo.CellularNetwork": {
+        "English_text": "Cellular",
+        "Chinese_text": "蜂窝网络"
+    },
+    "Tab2_NetworkInfo.RNDIS": {
+        "English_text": "RNDIS",
+        "Chinese_text": "RNDIS网络"
+    },
+    "Tab2_NetworkInfo.SubnetMask": {
+        "English_text": "SubnetMask",
+        "Chinese_text": "子网掩码"
+    },
+    "Tab2_NetworkInfo.WIFIMode": {
+        "English_text": "Mode",
+        "Chinese_text": "模式"
+    },
+    "Tab2_NetworkInfo.WIFIsignal": {
+        "English_text": "Signal",
+        "Chinese_text": "信号质量"
+    },
+    "Tab2_NetworkInfo.CellularSIM": {
+        "English_text": "SIM",
+        "Chinese_text": "SIM卡"
+    },
+    "Tab2_NetworkInfo.CellularNetworkState": {
+        "English_text": "Signal",
+        "Chinese_text": "网络质量"
+    },
+    "Tab2_NetworkInfo.CellularModsStatus": {
+        "English_text": "ModsStatus",
+        "Chinese_text": "模组状态"
+    },
+    "Tab2_NetworkInfo.RNDISstate": {
+        "English_text": "State",
+        "Chinese_text": "状态"
+    },
+    "Tab3_NodeREDInfo": {
+        "English_text": "Node-RED",
+        "Chinese_text": "Node-RED"
+    },
+    "NodePopUp.nodeDetails": {
+        "English_text": "Node Details",
+        "Chinese_text": "节点详情"
+    },
+    "NodePopUp.devName": {
+        "English_text": "DevName",
+        "Chinese_text": "设备名称"
+    },
+    "NodePopUp.Activated": {
+        "English_text": "Activated",
+        "Chinese_text": "激活状态"
+    },
+    "NodePopUp.Remark": {
+        "English_text": "Remark",
+        "Chinese_text": "备注"
+    },
+    "NodePopUp.Battery": {
+        "English_text": "Battery",
+        "Chinese_text": "电量"
+    },
+    "NodePopUp.LorawanVersion": {
+        "English_text": "LorawanVersion",
+        "Chinese_text": "Lorawan版本"
+    },
+    "NodePopUp.LoraClass": {
+        "English_text": "LoraClass",
+        "Chinese_text": "设备类型"
+    },
+    "NodePopUp.accessMode": {
+        "English_text": "AccessMode",
+        "Chinese_text": "入网方式"
+    },
+    "NodePopUp.activeState": {
+        "English_text": "ActiveState",
+        "Chinese_text": "活跃状态"
+    },
+    "NodePopUp.signalQuality": {
+        "English_text": "SignalQuality",
+        "Chinese_text": "信号质量"
+    },
+    "NodePopUp.SetNetworkStatus": {
+        "English_text": "Set node status",
+        "Chinese_text": "设置节点状态"
+    },
+    "RTDPopUp.packageType": {
+        "English_text": "PackageType",
+        "Chinese_text": "包类型"
+    },
+    "RTDPopUp.Time": {
+        "English_text": "Time",
+        "Chinese_text": "时间"
+    },
+    "NFCPopUp.Name": {
+        "English_text": "Name",
+        "Chinese_text": "名称"
+    },
+    "NFCPopUp.DevModel": {
+        "English_text": "DevModel",
+        "Chinese_text": "设备型号"
+    },
+    "NFCPopUp.LorawanVersion": {
+        "English_text": "LorawanVersion",
+        "Chinese_text": "Lorawan版本"
+    },
+    "NFCPopUp.accessMode": {
+        "English_text": "AccessMode",
+        "Chinese_text": "入网方式"
+    },
+    "NFCPopUp.LoraClass": {
+        "English_text": "LoraClass",
+        "Chinese_text": "设备类型"
+    },
+    "NFCPopUp.uploadInterval": {
+        "English_text": "UploadInterval",
+        "Chinese_text": "上报周期"
+    },
+    "NFCPopUp.EnabledState": {
+        "English_text": "EnabledState",
+        "Chinese_text": "启用状态"
+    },
+    "NFCPopUp.RegisterNode": {
+        "English_text": "RegisterNode",
+        "Chinese_text": "注册节点"
+    },
+    "NFCPopUp.UpdateNode": {
+        "English_text": "UpdateNode",
+        "Chinese_text": "更新节点"
+    },
+    "NFCPopUp.FactoryReset": {
+        "English_text": "FactoryReset",
+        "Chinese_text": "恢复出厂设置"
+    },
+    "RegisterNodePopUP.RegisterSuccess": {
+        "English_text": "Registration Successful!",
+        "Chinese_text": "注册成功"
+    },
+    "RegisterNodePopUP.RegisterFailed": {
+        "English_text": "Registration failed!The node is already registered",
+        "Chinese_text": "注册失败，该节点已被注册"
+    },
+    "UpdateNodePopUp.Updating": {
+        "English_text": "Configured... Please keep the device close to the NFC area of the gateway",
+        "Chinese_text": "正在配置...请将设备靠近网关的NFC区域"
+    },
+    "UpdateNodePopUp.UpdateSuccess": {
+        "English_text": "Update success!",
+        "Chinese_text": "更新成功"
+    },
+    "UpdateNodePopUp.UpdateFailed": {
+        "English_text": "Update failed!",
+        "Chinese_text": "更新失败"
+    },
+    "UpdateNodePopUp.UpdateTimeOut": {
+        "English_text": "Update timed out!",
+        "Chinese_text": "更新超时"
+    },
+    "FactoryResetPopUp.Sure": {
+        "English_text": "Please confirm if you want to do a factory reset!",
+        "Chinese_text": "请确认是否恢复出厂设置"
+    },
+    "FactoryResetPopUp.ResetSuccess": {
+        "English_text": "Factory reset successful!",
+        "Chinese_text": "恢复出厂设置成功"
+    },
+    "FactoryResetPopUp.ResetFailed": {
+        "English_text": "Factory reset failed!",
+        "Chinese_text": "恢复出厂设置失败"
+    }
+}
+
